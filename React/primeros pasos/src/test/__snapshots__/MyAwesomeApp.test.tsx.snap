@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MyAwesomeApp > should match snapshot 1`] = `
+<div>
+  <div>
+    <h1
+      data-testid="first-name"
+    >
+      Sebastian
+    </h1>
+    <h2>
+      Castillo
+    </h2>
+    <p>
+      Gear of war, Halo, Call of duty
+       
+    </p>
+    <p
+      style="background-color: blue; border-radius: 20px; margin-top: 30px;"
+    >
+      {"Name":"batman","City":"Gotham"}
+    </p>
+  </div>
+</div>
+`;
